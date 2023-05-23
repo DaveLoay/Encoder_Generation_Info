@@ -1,0 +1,819 @@
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-030-075.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-061-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-037-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-050-075.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-088-127.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-061-127.wav", "captions": "synthetic dark fast_decay reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-031-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-043-050.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-079-100.wav", "captions": "electronic bright fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-060-100.wav", "captions": "acoustic long_release reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-049-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_059-046-025.wav", "captions": "acoustic dark reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-030-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-068-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-054-050.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-043-050.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-049-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-099-075.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-069-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-037-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_059-039-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-038-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-082-075.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-020-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-072-075.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-102-100.wav", "captions": "acoustic bright guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-060-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-065-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-090-025.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-070-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-030-100.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-094-050.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-029-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-065-127.wav", "captions": "acoustic distortion guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-072-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-073-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-041-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-050-127.wav", "captions": "acoustic long_release reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-073-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-061-075.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-076-025.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-071-100.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-038-100.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-043-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-035-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-058-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-024-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-107-100.wav", "captions": "acoustic bright fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-073-025.wav", "captions": "acoustic fast_decay guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-107-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-085-100.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-094-100.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-036-100.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-047-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-092-100.wav", "captions": "acoustic nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-045-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-088-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-065-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-099-127.wav", "captions": "synthetic bright distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-093-075.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-050-100.wav", "captions": "acoustic bright fast_decay percussive mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-027-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-099-050.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-102-025.wav", "captions": "synthetic bright distortion fast_decay nonlinear_env percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-029-025.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-068-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-095-127.wav", "captions": "synthetic long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-040-075.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-046-025.wav", "captions": "acoustic bright fast_decay percussive mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-054-100.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-074-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-037-050.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-087-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-058-050.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-054-100.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-034-100.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-087-127.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-031-025.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-048-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-062-050.wav", "captions": "acoustic long_release reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-073-127.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-068-025.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-033-127.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-064-127.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-045-100.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-029-050.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-071-100.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-061-075.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-057-127.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_071-041-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-050-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-055-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_018-084-075.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-055-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-045-100.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-072-050.wav", "captions": "acoustic fast_decay guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-021-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-065-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-071-127.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-028-127.wav", "captions": "acoustic dark long_release multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-023-050.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-098-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-024-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-099-050.wav", "captions": "acoustic bright reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-084-100.wav", "captions": "synthetic bright distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-043-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-096-100.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-085-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-029-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-107-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-036-050.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-075-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-023-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_071-041-100.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-064-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-076-025.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-093-050.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-043-075.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-056-127.wav", "captions": "acoustic bright reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-027-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_071-052-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-088-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-065-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-062-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-067-127.wav", "captions": "acoustic long_release reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-104-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-055-075.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-048-075.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-043-025.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-058-025.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-065-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-093-025.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-039-127.wav", "captions": "acoustic bright reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-074-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-048-127.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-024-127.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-047-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-040-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-037-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-054-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-107-100.wav", "captions": "synthetic bright fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-091-050.wav", "captions": "synthetic bright distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-012-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-089-025.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-090-075.wav", "captions": "acoustic fast_decay tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-093-075.wav", "captions": "synthetic long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-074-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-104-100.wav", "captions": "acoustic bright guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-041-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-048-025.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-056-075.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-030-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-048-050.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-065-075.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-066-100.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-077-127.wav", "captions": "electronic distortion fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-028-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-067-025.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-035-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-052-025.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-045-075.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-057-050.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-031-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-027-100.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-028-075.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-071-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-029-025.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-037-075.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-044-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-072-075.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-026-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-080-050.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-091-127.wav", "captions": "acoustic percussive reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-040-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-060-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-058-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-059-075.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-107-100.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-084-025.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-071-127.wav", "captions": "acoustic fast_decay percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-098-025.wav", "captions": "acoustic reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-101-025.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-086-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-040-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-027-075.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-048-075.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-090-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-041-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-036-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-105-127.wav", "captions": "acoustic bright reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-023-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-070-100.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-038-100.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-061-025.wav", "captions": "acoustic dark percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-091-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-048-050.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-090-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-031-025.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-041-075.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-028-025.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-028-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-067-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-063-075.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-048-025.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-039-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-092-127.wav", "captions": "electronic percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_acoustic_000-058-127.wav", "captions": "acoustic reverb vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-034-075.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-026-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-085-100.wav", "captions": "acoustic multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-103-050.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-074-127.wav", "captions": "acoustic fast_decay mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-104-025.wav", "captions": "synthetic bright fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-027-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-082-075.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-063-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-090-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-096-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-043-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-074-025.wav", "captions": "acoustic reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-049-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-084-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-059-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-107-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-062-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-028-025.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-066-100.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-063-025.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-022-100.wav", "captions": "electronic fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-059-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-095-075.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-040-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-030-075.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-044-127.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-091-050.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-072-050.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-073-075.wav", "captions": "acoustic fast_decay tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-094-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-100-025.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-091-025.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-094-100.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-087-050.wav", "captions": "electronic long_release keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-105-050.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-057-025.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-095-075.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-039-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-072-127.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-047-100.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-025-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_018-071-127.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-077-075.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-093-100.wav", "captions": "acoustic reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-064-025.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-105-025.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-097-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-065-050.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_acoustic_000-060-075.wav", "captions": "acoustic reverb vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-022-075.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-096-050.wav", "captions": "acoustic fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-064-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-088-050.wav", "captions": "acoustic fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-077-050.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-108-075.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-036-075.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-052-100.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-062-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-026-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-039-075.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-040-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-093-025.wav", "captions": "synthetic bright distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-089-100.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-045-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-033-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-036-100.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-065-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-040-127.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-040-127.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-023-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-060-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-056-127.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-051-075.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-038-100.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-066-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-058-025.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-009-075.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-084-050.wav", "captions": "electronic percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-066-025.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-060-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-075-100.wav", "captions": "acoustic long_release tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-025-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-048-050.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-021-127.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-060-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-107-050.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-058-100.wav", "captions": "acoustic fast_decay percussive mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-034-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-086-127.wav", "captions": "acoustic nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-065-127.wav", "captions": "acoustic fast_decay percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-057-025.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-029-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-107-100.wav", "captions": "electronic bright organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-072-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-058-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-073-050.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-062-075.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-057-127.wav", "captions": "acoustic dark long_release multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-024-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-053-100.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-048-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-083-075.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-023-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-066-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-046-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-034-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_acoustic_000-070-075.wav", "captions": "acoustic reverb vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-080-075.wav", "captions": "electronic bright distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-075-025.wav", "captions": "electronic dark long_release keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-055-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-060-050.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-087-100.wav", "captions": "electronic fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-056-050.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-062-100.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-026-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-086-050.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-051-127.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-030-127.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-064-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-065-025.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-093-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-082-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-104-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-039-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-050-075.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-044-050.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-088-127.wav", "captions": "acoustic fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-039-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-059-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-076-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-050-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-075-075.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-015-075.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-046-127.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-087-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-048-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-080-100.wav", "captions": "electronic bright distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-026-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-045-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-045-025.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-091-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-060-127.wav", "captions": "acoustic dark long_release multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-103-100.wav", "captions": "electronic bright guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-083-050.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-028-075.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-046-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-069-025.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-106-100.wav", "captions": "synthetic bright distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-029-025.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-021-075.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-044-127.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-062-100.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-085-100.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-040-025.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-049-025.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-097-100.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-098-100.wav", "captions": "acoustic tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-031-127.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-062-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-079-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-057-127.wav", "captions": "acoustic  brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-048-025.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-056-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-086-100.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-031-127.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-058-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_059-045-050.wav", "captions": "acoustic dark reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-041-050.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-077-050.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-058-050.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-076-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-101-075.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-061-075.wav", "captions": "electronic fast_decay bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-105-100.wav", "captions": "electronic bright fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-022-075.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-052-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-043-025.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-036-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-071-075.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-096-127.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-056-025.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-096-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-079-100.wav", "captions": "acoustic  brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-087-075.wav", "captions": "electronic long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-087-025.wav", "captions": "synthetic long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-065-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-064-075.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-067-050.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-054-050.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-084-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-033-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-046-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-025-050.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-066-100.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-073-075.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-068-100.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-028-127.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-082-025.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-066-050.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-055-050.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-077-127.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-068-075.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-055-025.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-095-075.wav", "captions": "synthetic long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-092-127.wav", "captions": "acoustic reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-030-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-097-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-048-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-041-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-047-050.wav", "captions": "acoustic dark fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-066-050.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-103-100.wav", "captions": "acoustic bright fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-045-050.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-046-100.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-102-050.wav", "captions": "synthetic bright distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-074-025.wav", "captions": "acoustic fast_decay guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-034-100.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-037-025.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-090-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-050-050.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-104-025.wav", "captions": "synthetic bright distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-032-127.wav", "captions": "synthetic dark distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-029-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-087-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-069-127.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-028-075.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-024-025.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-102-025.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-083-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-054-127.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-058-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-091-050.wav", "captions": "synthetic long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-051-075.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-040-025.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_018-086-127.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-053-050.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-030-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-081-100.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-090-025.wav", "captions": "electronic long_release keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-052-127.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-083-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-069-025.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-062-050.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-026-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-072-075.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-045-050.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-014-050.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-045-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-079-127.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-046-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-104-025.wav", "captions": "electronic bright fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-032-127.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-022-050.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-052-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-086-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-049-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-053-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-107-127.wav", "captions": "synthetic bright distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-061-075.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-079-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-044-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-096-127.wav", "captions": "electronic percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-075-075.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-095-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-063-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-051-127.wav", "captions": "acoustic tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-105-050.wav", "captions": "electronic bright guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-094-127.wav", "captions": "synthetic fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-064-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-104-025.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-061-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-086-100.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-032-050.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-030-100.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-029-075.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-066-050.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-064-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-045-100.wav", "captions": "electronic dark distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-094-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-081-075.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-073-050.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-053-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-067-025.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-084-100.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-046-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-061-075.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-098-050.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-052-075.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-041-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-101-025.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-057-100.wav", "captions": "acoustic bright reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-081-050.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-057-127.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-055-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-062-025.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-062-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-070-075.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-039-075.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-079-100.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-040-100.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-107-075.wav", "captions": "electronic bright guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-088-100.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-095-050.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-013-100.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-061-075.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-030-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-061-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-069-025.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-100-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-063-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-054-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-086-025.wav", "captions": "acoustic percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-047-025.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-070-100.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-034-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-059-127.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-039-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-084-100.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-084-025.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-064-050.wav", "captions": "acoustic fast_decay percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-093-050.wav", "captions": "electronic long_release keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-048-025.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-054-025.wav", "captions": "acoustic dark fast_decay multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-026-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-100-075.wav", "captions": "electronic bright fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-085-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-093-100.wav", "captions": "synthetic bright distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-044-127.wav", "captions": "acoustic dark long_release multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-033-127.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-037-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-036-025.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-079-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-048-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-027-050.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-078-050.wav", "captions": "synthetic fast_decay bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-034-025.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-086-075.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-087-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-083-050.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-054-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-025-127.wav", "captions": "electronic dark long_release organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-039-127.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-066-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-058-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-067-075.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-039-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-062-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-105-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-036-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-096-025.wav", "captions": "acoustic fast_decay multiphonic percussive mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-072-025.wav", "captions": "acoustic fast_decay mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-096-127.wav", "captions": "acoustic  mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-024-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-040-127.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-067-050.wav", "captions": "acoustic long_release reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-055-075.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-069-100.wav", "captions": "synthetic bright distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_071-050-050.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-091-025.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-058-100.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-077-025.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-054-100.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-048-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-084-075.wav", "captions": "acoustic long_release reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_006-068-050.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-096-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-069-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-069-075.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-041-075.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-106-050.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_018-081-025.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-098-075.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-075-100.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-080-127.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-041-025.wav", "captions": "acoustic fast_decay percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-075-025.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-050-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_078-083-025.wav", "captions": "electronic bright keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-090-100.wav", "captions": "synthetic bright distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-078-025.wav", "captions": "synthetic fast_decay reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-036-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-077-050.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-070-050.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_022-077-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-042-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-076-050.wav", "captions": "acoustic fast_decay percussive tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-085-127.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-059-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-031-025.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-053-050.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-055-050.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-025-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-057-075.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-034-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-065-100.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-083-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-059-050.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-082-127.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-048-050.wav", "captions": "acoustic tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-065-100.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_037-060-127.wav", "captions": "acoustic reverb reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-042-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-107-075.wav", "captions": "synthetic bright fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-026-075.wav", "captions": "acoustic dark long_release multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-099-025.wav", "captions": "synthetic bright fast_decay percussive bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-060-075.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-070-050.wav", "captions": "acoustic  brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-092-100.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-075-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-060-025.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-081-100.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-065-100.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-071-075.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-077-127.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-057-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-085-050.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-036-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-064-050.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-060-127.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-025-025.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-041-127.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-067-025.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-085-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-067-127.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-102-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-023-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-092-050.wav", "captions": "synthetic long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-053-100.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-082-025.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-035-050.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-060-075.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-066-025.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-044-127.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-039-050.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-075-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-021-025.wav", "captions": "acoustic reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-081-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-080-127.wav", "captions": "synthetic bright distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_034-043-127.wav", "captions": "synthetic distortion tempo-synced bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-065-100.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-070-100.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-045-050.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-042-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-047-025.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-092-050.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-030-075.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-084-127.wav", "captions": "electronic bright distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-070-100.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-073-075.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-051-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-062-050.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-069-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-054-100.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-041-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-042-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-073-025.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-050-100.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-079-025.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-038-127.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-064-025.wav", "captions": "acoustic fast_decay tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-029-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-059-127.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-065-127.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-054-075.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-026-050.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-037-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-105-100.wav", "captions": "electronic bright fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-056-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-081-100.wav", "captions": "electronic distortion fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-090-050.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-066-075.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-085-100.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-038-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-064-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-056-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-077-075.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-043-025.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-067-100.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-057-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-041-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-035-100.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-036-075.wav", "captions": "acoustic dark multiphonic mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-042-050.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-022-050.wav", "captions": "electronic dark guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-095-100.wav", "captions": "electronic percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-049-025.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-073-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-071-050.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-041-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-058-075.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-074-127.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-038-075.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-025-050.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-085-050.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-057-075.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-056-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-074-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-050-127.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-047-050.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-052-050.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_056-081-127.wav", "captions": "acoustic fast_decay mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-108-050.wav", "captions": "synthetic bright distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-061-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-024-100.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-097-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-046-025.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-061-050.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-033-050.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-090-025.wav", "captions": "electronic fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-096-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-102-127.wav", "captions": "electronic bright fast_decay percussive keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-070-025.wav", "captions": "acoustic bright brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-093-100.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-104-127.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-096-100.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-096-075.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-074-075.wav", "captions": "synthetic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_080-027-050.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-023-100.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-095-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-057-075.wav", "captions": "acoustic  reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-033-025.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-072-127.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-039-075.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-073-127.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_016-089-050.wav", "captions": "acoustic  brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_025-053-127.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-099-127.wav", "captions": "acoustic long_release brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-105-025.wav", "captions": "acoustic fast_decay percussive tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_011-039-100.wav", "captions": "acoustic bright reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_071-041-050.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-051-100.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_057-069-075.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-077-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-047-075.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_synthetic_000-026-100.wav", "captions": "synthetic distortion flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-028-127.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-053-025.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_007-039-100.wav", "captions": "electronic distortion long_release nonlinear_env organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-041-075.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-073-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_acoustic_000-050-025.wav", "captions": "acoustic reverb vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-088-025.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-085-050.wav", "captions": "acoustic fast_decay percussive guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-050-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-044-050.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-095-025.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_018-035-075.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-068-050.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-043-100.wav", "captions": "acoustic reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-032-025.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-056-100.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-035-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-070-050.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-066-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_electronic_028-031-127.wav", "captions": "electronic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_001-033-025.wav", "captions": "electronic dark keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-068-127.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-084-100.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/reed_acoustic_023-048-100.wav", "captions": "acoustic bright fast_decay multiphonic nonlinear_env reed"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_002-030-075.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_113-039-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-070-050.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_009-071-075.wav", "captions": "synthetic bright distortion long_release bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_012-029-025.wav", "captions": "acoustic long_release reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-050-050.wav", "captions": "acoustic fast_decay reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_014-037-100.wav", "captions": "acoustic dark reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_062-108-050.wav", "captions": "acoustic bright fast_decay multiphonic percussive mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_001-057-075.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-052-075.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-058-100.wav", "captions": "synthetic bright distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-080-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-023-100.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-080-100.wav", "captions": "synthetic fast_decay percussive reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-064-050.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_134-052-100.wav", "captions": "synthetic dark reverb bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-077-025.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_003-063-127.wav", "captions": "electronic  keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_056-078-127.wav", "captions": "acoustic fast_decay percussive reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-090-050.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_104-044-025.wav", "captions": "electronic  organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_098-067-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-103-025.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/organ_electronic_028-055-100.wav", "captions": "electronic dark organ"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-061-100.wav", "captions": "acoustic long_release tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/mallet_acoustic_047-084-075.wav", "captions": "acoustic fast_decay percussive reverb mallet"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_acoustic_000-064-075.wav", "captions": "acoustic reverb vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-027-075.wav", "captions": "synthetic distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_electronic_027-032-127.wav", "captions": "electronic  bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_135-057-127.wav", "captions": "synthetic distortion bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-021-127.wav", "captions": "acoustic long_release tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_098-087-050.wav", "captions": "electronic fast_decay keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_015-083-127.wav", "captions": "acoustic fast_decay percussive reverb guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/flute_acoustic_002-086-075.wav", "captions": "acoustic reverb flute"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-076-127.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_synthetic_000-031-050.wav", "captions": "synthetic distortion fast_decay nonlinear_env keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-033-127.wav", "captions": "acoustic reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_030-044-100.wav", "captions": "acoustic long_release tempo-synced guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-024-075.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_021-077-100.wav", "captions": "acoustic fast_decay guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_033-043-075.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_046-081-025.wav", "captions": "acoustic  brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/vocal_synthetic_003-040-127.wav", "captions": "synthetic bright distortion long_release nonlinear_env vocal"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_electronic_069-063-100.wav", "captions": "electronic distortion keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/string_acoustic_057-069-075.wav", "captions": "acoustic bright nonlinear_env reverb string"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_015-056-075.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/brass_acoustic_059-055-127.wav", "captions": "acoustic reverb brass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/keyboard_acoustic_004-078-025.wav", "captions": "acoustic dark reverb keyboard"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_010-049-050.wav", "captions": "acoustic  guitar"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/bass_synthetic_068-052-050.wav", "captions": "synthetic dark bass"}
+{"dataset": "NSynth", "location": "/home/ar/Data/DavidLopez/NSynth/nsynth-test/audio/guitar_acoustic_014-102-100.wav", "captions": "acoustic fast_decay percussive guitar"}
